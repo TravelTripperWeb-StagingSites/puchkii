@@ -1,5 +1,6 @@
 ---
 hotel_id: '197470'
+gems: "[jekyll-sitemap]"
 ---
 default_lang: 'en'
 languages: ['en']
